@@ -15,30 +15,77 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaiokane&show_icons=true&hide=issues,contribs&theme=onedark" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaiokane&hide=JavaScript&layout=compact&theme=onedark" />
+</a>
+
+<a href="https://github.com/Gaiokane/WeChat-DataBase-Export">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaiokane&repo=WeChat-DataBase-Export&theme=onedark" />
+</a>    
+<a href="https://github.com/Gaiokane/Tutorials">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaiokane&repo=Tutorials&theme=onedark" />
+</a>
+
+<br/><br/><br/><br/>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Gaiokane/count.svg" />
+</p>
+
+
+
+
+
+
+
+
+
+
 <!--GitHub Stats-->
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gaiokane&show_icons=true&theme=onedark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!--
+yuanben
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gaiokane&show_icons=true&theme=onedark&hide=issues,contribs" />
 </a>
+-->
 
+<!--
+yuanben
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaiokane&hide=JavaScript&layout=compact" />
 </a>
+-->
 
-<br/><br/><br/><br/><br/>
+<!--<br/><br/><br/><br/><br/>-->
 
 <!--Pin WeChat-DataBase-Export-->
+<!--
+yuanben
 <a href="https://github.com/Gaiokane/WeChat-DataBase-Export">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaiokane&repo=WeChat-DataBase-Export" />
 </a>
+-->
 
 <!--Pin Tutorials-->
+<!--
+yuanben
 <a href="https://github.com/Gaiokane/Tutorials">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaiokane&repo=Tutorials" />
 </a>
+-->
 
 <!--Most Used Languages-->
 <!--
@@ -49,13 +96,6 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaiokane&hide=JavaScript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-<br/><br/><br/><br/>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Gaiokane/count.svg" />
-</p>
 
 <!--
 **Languages and Tools:** 
