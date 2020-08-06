@@ -34,8 +34,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaiokane&repo=Tutorials&theme=onedark" />
 </a>
 
-<br/><br/><br/><br/>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Gaiokane/count.svg" />
