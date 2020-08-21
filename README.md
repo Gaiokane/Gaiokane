@@ -34,6 +34,91 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaiokane&repo=Tutorials&theme=onedark" />
 </a>
 
+
+
+<br/>
+**Tools:** 
+<p>
+  <!-- https://www.vectorlogo.zone/ -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gog/gog-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nasa/nasa-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/wappalyzer/wappalyzer-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
+  <br />
+  
+  <!-- https://simpleicons.org/ -->
+   <!--
+  <code><img width="10%" src="https://simpleicons.org/icons/adobe.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/adobeacrobatreader.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/adobephotoshop.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/adobeaudition.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/adobepremierepro.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/adobeaftereffects.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/adobedreamweaver.svg"></code>
+  <br />
+  <code><img width="10%" src="https://simpleicons.org/icons/dot-net.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/alipay.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/apple.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/bilibili.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/csharp.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/cdprojekt.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/centos.svg"></code>
+  <br />
+  <code><img width="10%" src="https://simpleicons.org/icons/counter-strike.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/docker.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/epicgames.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/github.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/humblebundle.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/intellijidea.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/ios.svg"></code>
+  <br />
+  <code><img width="10%" src="https://simpleicons.org/icons/microsoft.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/microsoftoffice.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/microsoftword.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/microsoftexcel.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/microsoftpowerpoint.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/microsoftvisio.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code>
+  -->
+</p>
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Gaiokane/count.svg" />
