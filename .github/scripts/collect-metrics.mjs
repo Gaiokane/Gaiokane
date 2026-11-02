@@ -7,7 +7,10 @@
  *   GET /users/{user}/repos?per_page=100           → 名下所有仓库的 star 之和
  *   GET /search/issues?q=repo:..+is:pr+author:..    → 向上游提的 PR（区分已合并 / 待审）
  *   GET /search/issues?q=repo:..+is:issue+author:.. → 向上游提的 issue
- *   GET /repos/{user}/{repo}/traffic/views          → 主页仓库浏览量（逐日累计）
+ *   GET /repos/{user}/{repo}/traffic/views          → 仓库 README 文件页浏览量（逐日累计）
+ *
+ * 说明：README 里的「主页访问量」徽章走的是 komarev 公共计数服务（每次主页渲染实时 +1），
+ * 本脚本统计的是另一码事 —— 仓库 README blob 页的浏览量，两者口径不同，不要混用。
  *
  * 权限说明：traffic 接口要求仓库的 Administration: read，而 GITHUB_TOKEN 没有这个权限，
  * 所以「主页访问量」需要仓库 secret PROFILE_METRICS_TOKEN（细粒度 PAT：Administration → Read，
@@ -157,7 +160,9 @@ async function main() {
   }
 
   // 4) 写出徽章数据
-  await writeJson("views.json", badge("主页访问量", views.total, "blue"));
+  // 仓库 README 文件页浏览量（不是主页渲染次数 —— 主页 README 是服务端内嵌渲染的，
+  // 不会产生对 README blob 页的请求，所以这个数天然远小于真实主页访问量）
+  await writeJson("views.json", badge("仓库 README 浏览量", views.total, "blue"));
   await writeJson("stars.json", badge("总 Star", totalStars, "yellow"));
   await writeJson(
     "dbx-prs.json",

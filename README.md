@@ -139,20 +139,25 @@ issue #140（只读编辑器无法聚焦，长值不好选中）—— 提 issue
 </p>
 
 <p align="center">
-  <a href="https://github.com/Gaiokane/Gaiokane/blob/master/assets/metrics/views.json">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGaiokane%2FGaiokane%2Fmaster%2Fassets%2Fmetrics%2Fviews.json&style=for-the-badge" alt="主页访问量" />
+  <a href="https://github.com/Gaiokane">
+    <img src="https://komarev.com/ghpvc/?username=Gaiokane&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE%E9%87%8F&color=0e75b6&style=for-the-badge" alt="主页访问量" />
   </a>
 </p>
 
 | 指标 | 口径 | 更新 |
 | :--- | :--- | :--- |
-| 主页访问量 | 本仓库（个人主页 README 仓库）的页面浏览量，取自 GitHub 自家的 traffic API，逐日累计（不含 github.com/Gaiokane 主页本身） | 每天一次 |
+| 主页访问量 | 每次主页被打开时实时 +1，由 komarev 公共计数服务统计（计数自 2026-11-02 起） | 实时 |
+| 仓库 README 浏览量 | 本仓库 README 文件页的浏览量，取自 GitHub 自家的 traffic API，逐日累计 | 每天一次 |
 | 总 Star | 名下 146 个仓库的 star 之和 | 每天一次 |
 | 上游 PR / Issue | 我向 dbx、simple-post 提交的 PR 与 issue 数（区分已合并 / 待审） | 每天一次 |
 
-这些数字不是写死在 README 里的：workflow 每天重算后写回仓库里的 `assets/metrics/*.json`，
-徽章通过 shields.io 读取这些 JSON —— **访客打开主页时不会请求任何第三方统计服务**，
-统计卡也是仓库里的静态图片，不是实时生成的。
+「仓库 README 浏览量」「总 Star」「上游 PR / Issue」不是写死在 README 里的：workflow 每天重算后
+写回仓库里的 `assets/metrics/*.json`，徽章通过 shields.io 读取这些 JSON —— 访客打开主页时
+**不会**为此请求任何统计服务；统计卡也是仓库里的静态图片，不是实时生成的。
+
+只有「主页访问量」例外 —— 它用 komarev 这个公共计数服务：徽章本身就是一个被请求的图片，
+GitHub 通过 Camo 代理去拉，它的响应头带 `no-cache`，所以每次主页渲染都会真实 +1；
+代价是数字存在第三方服务器上，且现在的计数从 2026-11-02 重新开始。
 
 - 采集脚本：[`.github/scripts/collect-metrics.mjs`](.github/scripts/collect-metrics.mjs)
 - 定时任务：[`.github/workflows/profile-metrics.yml`](.github/workflows/profile-metrics.yml)
