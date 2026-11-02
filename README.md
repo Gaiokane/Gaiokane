@@ -3,12 +3,11 @@
 
   # Hi, I'm OkaneGai 👋
 
-  **数据库客户端 · 运维与交付工具 · 测试与接口调试 · AI 协作**
+  **自研工具 · 运维与交付 · AI 协作 · 开源贡献**
 
-  写数据库客户端、API 调试台、Git 仓库体检工具、运维 Agent —— 都是自己每天要用的东西；
-  也折腾达梦、东方通 TongRDS、海量 Vastbase、TDengine 这些国产数据库的适配。
-  最近的两个项目都内置了 MCP Server —— 让 AI 客户端直接读写你正在维护的那份数据，
-  而不是从文档里推测结构。
+  自己写的都是些每天要用的东西：Git 仓库只读体检报告（把源码喂给模型生成项目说明）、
+  运维 Agent 与管理端、Docker 镜像管理平台这类工具。
+  也给 dbx、simple-post 这些开源项目提 issue 和 PR —— 遇到能自己修的就修。
 
   <p>
     <a href="https://github.com/Gaiokane?tab=followers"><img src="https://img.shields.io/github/followers/Gaiokane?style=flat&label=Followers&logo=github&logoColor=white" alt="Followers" /></a>
@@ -23,6 +22,8 @@
 ---
 
 ## 🚀 最近在做
+
+> 这两个是上游项目，我在里面是贡献者 —— 平时自己用，遇到问题就提 issue，能自己修的就提 PR。
 
 ### [dbx](https://github.com/t8y2/dbx) · 25 MB 的跨平台数据库客户端
 
