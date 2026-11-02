@@ -3,10 +3,12 @@
 
   # Hi, I'm OkaneGai 👋
 
-  **Rust · 跨平台桌面工具 · 数据库客户端 · AI 协作**
+  **数据库客户端 · 运维与交付工具 · 测试与接口调试 · AI 协作**
 
-  写数据库客户端和桌面应用，最近两年都在做「自带 MCP Server 的开发工具」——
-  让 AI 客户端直接读写你正在维护的那份数据，而不是从文档里推测结构。
+  写数据库客户端、API 调试台、Git 仓库体检工具、运维 Agent —— 都是自己每天要用的东西；
+  也折腾达梦、东方通 TongRDS、海量 Vastbase、TDengine 这些国产数据库的适配。
+  最近的两个项目都内置了 MCP Server —— 让 AI 客户端直接读写你正在维护的那份数据，
+  而不是从文档里推测结构。
 
   <p>
     <a href="https://github.com/Gaiokane?tab=followers"><img src="https://img.shields.io/github/followers/Gaiokane?style=flat&label=Followers&logo=github&logoColor=white" alt="Followers" /></a>
@@ -111,6 +113,15 @@ issue #140（只读编辑器无法聚焦，长值不好选中）—— 提 issue
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat&logo=vuedotjs&logoColor=4FC08C)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
 ![Wails](https://img.shields.io/badge/Wails-24C8DB?style=flat&logo=wails&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+**后端与 AI 协议**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=flat&logo=modelcontextprotocol&logoColor=white)
 
 **数据库**
 
@@ -134,11 +145,14 @@ issue #140（只读编辑器无法聚焦，长值不好选中）—— 提 issue
 **工程与运维**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
 
 ---
 
