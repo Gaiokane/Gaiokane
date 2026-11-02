@@ -96,29 +96,40 @@ issue #140（只读编辑器无法聚焦，长值不好选中）—— 提 issue
 
 ## 🛠 技术栈
 
-**系统与后端**
+**语言**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c%23&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **前端与桌面**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=flat&logo=vuedotjs&logoColor=4FC08C)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Wails](https://img.shields.io/badge/Wails-24C8DB?style=flat&logo=wails&logoColor=white)
 
-**数据与存储**
+**数据库**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
+![达梦 Dameng](https://img.shields.io/badge/%E8%BE%BE%E6%A2%A6%20Dameng-1F4E79?style=flat)
+![海量 Vastbase](https://img.shields.io/badge/%E6%B5%B7%E9%87%8F%20Vastbase-0B5C8C?style=flat)
+![TDengine](https://img.shields.io/badge/TDengine-3AA675?style=flat)
+![东方通 TongRDS](https://img.shields.io/badge/%E4%B8%9C%E6%96%B9%E9%80%9A%20TongRDS-BF3F5F?style=flat)
+
+**缓存 · 消息 · 时序**
+
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
 
 **工程与运维**
 
@@ -140,7 +151,7 @@ issue #140（只读编辑器无法聚焦，长值不好选中）—— 提 issue
 
 <p align="center">
   <a href="https://github.com/Gaiokane">
-    <img src="https://komarev.com/ghpvc/?username=Gaiokane&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE%E9%87%8F&color=0e75b6&style=for-the-badge" alt="主页访问量" />
+    <img src="https://komarev.com/ghpvc/?username=Gaiokane&label=Views&color=0e75b6&style=for-the-badge" alt="主页访问量" />
   </a>
 </p>
 
@@ -158,6 +169,7 @@ issue #140（只读编辑器无法聚焦，长值不好选中）—— 提 issue
 只有「主页访问量」例外 —— 它用 komarev 这个公共计数服务：徽章本身就是一个被请求的图片，
 GitHub 通过 Camo 代理去拉，它的响应头带 `no-cache`，所以每次主页渲染都会真实 +1；
 代价是数字存在第三方服务器上，且现在的计数从 2026-11-02 重新开始。
+（徽章标签只能用英文：komarev 服务端算宽度用的字体不含中文字形，中文标签会被裁掉。）
 
 - 采集脚本：[`.github/scripts/collect-metrics.mjs`](.github/scripts/collect-metrics.mjs)
 - 定时任务：[`.github/workflows/profile-metrics.yml`](.github/workflows/profile-metrics.yml)
