@@ -1,267 +1,164 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/10814413?v=4" width="96" alt="OkaneGai" />
 
-<!--
-**Gaiokane/Gaiokane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hi, I'm OkaneGai 👋
 
-Here are some ideas to get you started:
+  **Rust · 跨平台桌面工具 · 数据库客户端 · AI 协作**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  写数据库客户端和桌面应用，最近两年都在做「自带 MCP Server 的开发工具」——
+  让 AI 客户端直接读写你正在维护的那份数据，而不是从文档里推测结构。
 
+  <p>
+    <a href="https://github.com/Gaiokane?tab=followers"><img src="https://img.shields.io/github/followers/Gaiokane?style=flat&label=Followers&logo=github&logoColor=white" alt="Followers" /></a>
+    <a href="https://github.com/Gaiokane?tab=repositories"><img src="https://img.shields.io/github/repos/Gaiokane?style=flat&label=Repos&logo=github&logoColor=white" alt="Repositories" /></a>
+    <a href="https://github.com/Gaiokane/Gaiokane/blob/master/assets/metrics/stars.json"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGaiokane%2FGaiokane%2Fmaster%2Fassets%2Fmetrics%2Fstars.json&style=flat" alt="Total stars" /></a>
+    <a href="https://umaru.moe"><img src="https://img.shields.io/badge/blog-umaru.moe-7C3AED?style=flat&logo=googlechrome&logoColor=white" alt="Blog" /></a>
+  </p>
 
+  <p><sub>「没有期盼就不会出现奇迹」</sub></p>
+</div>
 
+---
 
+## 🚀 最近在做
 
+### [dbx](https://github.com/t8y2/dbx) · 25 MB 的跨平台数据库客户端
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaiokane&show_icons=true&hide=issues,contribs&theme=onedark" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaiokane&hide=JavaScript&layout=compact&theme=onedark" />
-</a>
-
-<a href="https://github.com/Gaiokane/WeChat-DataBase-Export">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaiokane&repo=WeChat-DataBase-Export&theme=onedark" />
-</a>    
-<a href="https://github.com/Gaiokane/Tutorials">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaiokane&repo=Tutorials&theme=onedark" />
-</a>
-
-
-
-<br/>
-**Tools:** 
 <p>
-  <!-- https://www.vectorlogo.zone/ -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gog/gog-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nasa/nasa-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/steampowered/steampowered-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/wappalyzer/wappalyzer-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
-  <br />
-  
-  <!-- https://simpleicons.org/ -->
-   <!--
-  <code><img width="10%" src="https://simpleicons.org/icons/adobe.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/adobeacrobatreader.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/adobephotoshop.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/adobeaudition.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/adobepremierepro.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/adobeaftereffects.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/adobedreamweaver.svg"></code>
-  <br />
-  <code><img width="10%" src="https://simpleicons.org/icons/dot-net.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/alipay.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/apple.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/bilibili.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/csharp.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/cdprojekt.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/centos.svg"></code>
-  <br />
-  <code><img width="10%" src="https://simpleicons.org/icons/counter-strike.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/docker.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/epicgames.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/github.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/humblebundle.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/intellijidea.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/ios.svg"></code>
-  <br />
-  <code><img width="10%" src="https://simpleicons.org/icons/microsoft.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/microsoftoffice.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/microsoftword.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/microsoftexcel.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/microsoftpowerpoint.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/microsoftvisio.svg"></code>
-  <code><img width="10%" src="https://simpleicons.org/icons/microsoftsqlserver.svg"></code>
-  -->
+  <a href="https://github.com/t8y2/dbx/stargazers"><img src="https://img.shields.io/github/stars/t8y2/dbx?style=flat&label=%E4%B8%8A%E6%B8%B8%20Star&logo=github&logoColor=white" alt="dbx stars" /></a>
+  <img src="https://img.shields.io/github/forks/t8y2/dbx?style=flat&label=Fork" alt="dbx forks" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGaiokane%2FGaiokane%2Fmaster%2Fassets%2Fmetrics%2Fdbx-prs.json&style=flat" alt="dbx PR by me" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGaiokane%2FGaiokane%2Fmaster%2Fassets%2Fmetrics%2Fdbx-issues.json&style=flat" alt="dbx issue by me" />
 </p>
 
+100+ 种数据库（MySQL / PostgreSQL / SQLite / Redis / MongoDB / DuckDB / SQL Server / 达梦…），
+桌面版、Docker 版、CLI 三种形态，内置 AI 助手和 MCP Server，Rust 写的，全部打包 25 MB。
 
+**我的贡献**：提了 10 个 PR（8 个已合并）、5 个 issue —— 集中在 Redis 键浏览器的交互与边界行为、
+「执行 SQL 文件」的进度区被挤走、TongRDS 的越界兼容，还有 fork 里 CI 拿不到 token 的问题。
 
+- [上游仓库](https://github.com/t8y2/dbx) ·
+  [我的 PR](https://github.com/t8y2/dbx/pulls?q=is%3Apr+author%3AGaiokane) ·
+  [我的 Issue](https://github.com/t8y2/dbx/issues?q=is%3issue+author%3AGaiokane)
 
+<a href="https://github.com/t8y2/dbx"><img src="https://dl.dbxio.com/assets/readme-hero-20260925.png" alt="dbx" width="720" /></a>
 
+### [simple-post](https://github.com/Nnyjk/simple-post) · 本地优先的桌面 API 调试工具（内置 MCP）
 
-
-
-
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Gaiokane/count.svg" />
+<p>
+  <img src="https://img.shields.io/badge/MCP-47%20tools-8A2BE2?style=flat" alt="MCP tools" />
+  <img src="https://img.shields.io/badge/stack-Tauri%20%2B%20React%20%2B%20Rust-20232A?style=flat" alt="stack" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGaiokane%2FGaiokane%2Fmaster%2Fassets%2Fmetrics%2Fsp-prs.json&style=flat" alt="simple-post PR by me" />
 </p>
 
+Windows 10/11 上的桌面 API 调试工具：接口树、请求构造、响应查看都在同一个应用里完成，
+业务数据存在本机的 SQLite 文件里，不依赖任何 SaaS 后端。
 
+和别的 API 客户端最大的不同，是它内置了 MCP Server：Claude Desktop、Cursor、Cline 这些
+AI 客户端可以通过 47 个 MCP 工具直接读写接口定义、环境变量和模块地址 ——
+AI 读到的是你正在维护的那份数据本身。
 
+**我的贡献**：PR #141（只读响应区可聚焦、点击后有闪烁光标）待合并；
+issue #140（只读编辑器无法聚焦，长值不好选中）—— 提 issue 时顺手把修复做出来了。
 
+- [上游仓库](https://github.com/Nnyjk/simple-post) ·
+  [我的 PR](https://github.com/Nnyjk/simple-post/pulls?q=is%3Apr+author%3AGaiokane)
 
+<a href="https://github.com/Nnyjk/simple-post"><img src="https://raw.githubusercontent.com/Nnyjk/simple-post/main/docs/screenshots/workspace-request-response-dark.png" alt="simple-post" width="720" /></a>
 
+---
 
+## ⭐ Star 排行
 
+**参与贡献的上游项目**
 
+| 项目 | Star | 领域 | 我的贡献 |
+| :--- | ---: | :--- | :--- |
+| [t8y2/dbx](https://github.com/t8y2/dbx) | 28.5k | 跨平台数据库客户端（Rust） | 8 PR 合并 · 5 issue |
+| [Nnyjk/simple-post](https://github.com/Nnyjk/simple-post) | 2 | 桌面 API 调试工具 + MCP Server | 1 PR 待合并 · 1 issue |
 
-<!--GitHub Stats-->
-<!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gaiokane&show_icons=true&theme=onedark&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
--->
+**我的原创仓库**
 
-<!--
-yuanben
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gaiokane&show_icons=true&theme=onedark&hide=issues,contribs" />
-</a>
--->
+| 项目 | Star | 说明 |
+| :--- | ---: | :--- |
+| [WeChat-DataBase-Export](https://github.com/Gaiokane/WeChat-DataBase-Export) | 50 | 微信数据库 / 聊天记录导出（Python） |
+| [MarketMS](https://github.com/Gaiokane/MarketMS) | 13 | 毕设：超市进销存管理系统（C#） |
+| [Getm3u8DownloadUrl](https://github.com/Gaiokane/Getm3u8DownloadUrl) | 2 | m3u8 链接生成与合并（C#） |
+| [ToolsCollectionForProgram](https://github.com/Gaiokane/ToolsCollectionForProgram) | 2 | 开发常用小工具集（C#） |
+| [dm8_tomcat_dem](https://github.com/Gaiokane/dm8_tomcat_dem) | 1 | 达梦数据库 + Tomcat 镜像（JavaScript） |
+| [CrazyPython](https://github.com/Gaiokane/CrazyPython) | 1 | 《疯狂 Python》讲义练习 |
+| [.NETQRCode](https://github.com/Gaiokane/.NETQRCode) | 1 | .NET 二维码生成 / 解码 |
+| [RemainingDownloadTimeCalculator](https://github.com/Gaiokane/RemainingDownloadTimeCalculator) | 1 | 按文件大小和速度算剩余下载时间 |
 
-<!--
-yuanben
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaiokane&hide=JavaScript&layout=compact" />
-</a>
--->
+> 其余 130+ 个原创仓库（2015 年至今）星标基本为 0 —— [看看全部](https://github.com/Gaiokane?tab=repositories)
 
-<!--<br/><br/><br/><br/><br/>-->
+---
 
-<!--Pin WeChat-DataBase-Export-->
-<!--
-yuanben
-<a href="https://github.com/Gaiokane/WeChat-DataBase-Export">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaiokane&repo=WeChat-DataBase-Export" />
-</a>
--->
+## 🛠 技术栈
 
-<!--Pin Tutorials-->
-<!--
-yuanben
-<a href="https://github.com/Gaiokane/Tutorials">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Gaiokane&repo=Tutorials" />
-</a>
--->
+**系统与后端**
 
-<!--Most Used Languages-->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaiokane&hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
--->
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=c%23&logoColor=white)
 
-<!--Most Used Languages small-->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaiokane&hide=JavaScript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+**前端与桌面**
 
-<!--
-**Languages and Tools:** 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<!--<p>-->
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <!--
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+**数据与存储**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+
+**工程与运维**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+---
+
+## 📊 主页数据
+
+<p align="center">
+  <img src="assets/stats.svg" width="430" alt="GitHub stats" />
+  <img src="assets/top-langs.svg" width="300" alt="Top languages" />
 </p>
--->
-<!--
-### Technical Skills
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <br />
-<img src="https://img.shields.io/badge/-JSP-de6c1e?style=flat" > <img src="https://img.shields.io/badge/-PHP-5466b8?style=flat&logo=php&logoColor=white" > <br />
-<img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff"> <br/>
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java 8-06305b?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
-<img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> <br />
-<img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat"> <img src="https://img.shields.io/badge/-R-black?style=flat&logo=r&logoColor=5b8cc4"> <br />
-<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
--->
-<!--
-### 👨‍💻 Languages and Tools
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
--->
-<!--
-[![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![AzureDevops](https://img.shields.io/badge/-AzureDevops-0175C2?style=flat&logo=azureDevops&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
--->
-<!--
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
--->
-<!--
-[![LeetCode](https://img.shields.io/badge/-LeetCode-02569B?style=flat&logo=leetCode&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![Redis](https://img.shields.io/badge/-Redis-black?style=flat&logo=redis&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
--->
-<!--
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) 
--->
-<!--
-**Languages and Tools:**  
--->
-<!--
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
--->
+
+<p align="center">
+  <a href="https://github.com/Gaiokane/Gaiokane/blob/master/assets/metrics/views.json">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FGaiokane%2FGaiokane%2Fmaster%2Fassets%2Fmetrics%2Fviews.json&style=for-the-badge" alt="主页访问量" />
+  </a>
+</p>
+
+| 指标 | 口径 | 更新 |
+| :--- | :--- | :--- |
+| 主页访问量 | 本仓库（个人主页 README 仓库）的页面浏览量，取自 GitHub 自家的 traffic API，逐日累计（不含 github.com/Gaiokane 主页本身） | 每天一次 |
+| 总 Star | 名下 146 个仓库的 star 之和 | 每天一次 |
+| 上游 PR / Issue | 我向 dbx、simple-post 提交的 PR 与 issue 数（区分已合并 / 待审） | 每天一次 |
+
+这些数字不是写死在 README 里的：workflow 每天重算后写回仓库里的 `assets/metrics/*.json`，
+徽章通过 shields.io 读取这些 JSON —— **访客打开主页时不会请求任何第三方统计服务**，
+统计卡也是仓库里的静态图片，不是实时生成的。
+
+- 采集脚本：[`.github/scripts/collect-metrics.mjs`](.github/scripts/collect-metrics.mjs)
+- 定时任务：[`.github/workflows/profile-metrics.yml`](.github/workflows/profile-metrics.yml)
+
+---
+
+<p align="center">
+  <sub>苏州 · <a href="https://umaru.moe/">umaru.moe</a> · 有问题欢迎开 issue 聊</sub>
+</p>

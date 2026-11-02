@@ -1,0 +1,65 @@
+name: Profile Metrics
+
+# 每天重算一次个人主页的指标与静态统计卡，结果写回 assets/ 目录。
+# README 只引用仓库里的静态文件，访客打开主页时不会请求任何第三方统计服务。
+#
+# 访问量（traffic 接口）需要仓库的 Administration: read 权限，而 GITHUB_TOKEN 没有这个权限。
+# 想让「主页访问量」有数据，给本仓库加一个 secret：PROFILE_METRICS_TOKEN
+#   - 细粒度 PAT：Administration → Read，仅限本仓库
+#   - 或经典 PAT：勾选 repo
+# 没有这个 secret 时，脚本会跳过访问量统计并保留历史累计值，其余指标照常更新。
+
+on:
+  schedule:
+    # 每天 UTC 02:23（北京时间 10:23），避开整点的流量高峰
+    - cron: "23 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - "README.md"
+      - "assets/**"
+      - ".github/workflows/profile-metrics.yml"
+      - ".github/scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: 刷新指标与统计卡
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: 采集指标
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_METRICS_TOKEN || github.token }}
+          GH_USER: Gaiokane
+          GH_REPO: Gaiokane
+        run: node .github/scripts/collect-metrics.mjs
+
+      - name: 生成静态统计卡
+        env:
+          GH_USER: Gaiokane
+          # 可选：仓库变量 STATS_BASE_URL 指向自己的部署，留空则用公共实例
+          STATS_BASE_URL: ${{ vars.STATS_BASE_URL }}
+        run: bash .github/scripts/render-cards.sh
+
+      - name: 提交更新
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          if git diff --cached --quiet; then
+            echo "指标与统计卡没有变化，跳过提交"
+          else
+            git commit -m "chore(profile): 刷新指标与统计卡"
+            git pull --rebase origin master
+            git push origin HEAD:master
+          fi
